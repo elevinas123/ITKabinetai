@@ -1,0 +1,30 @@
+.pamokos {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.pamoka {
+  display: flex;
+  flex-direction: row;
+}
+.kabinetas {
+  background-color: aquamarine;
+  padding: 3px;
+  margin: 3px;
+  border: solid 1px rgb(3, 3, 3);
+}
+
+.card {
+  background-color: rgb(165, 192, 215);
+  width: 200px;
+
+  margin: 5px;
+  padding: 5px;
+  
+}
+.title {
+  text-align: center;
+  background-color: azure;
+}
+
